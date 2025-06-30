@@ -1,0 +1,287 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+body{
+    margin:0;
+    background-color: #CAA1FF;
+}
+
+header{
+    font-family: Comfortaa, sans-serif;
+    font-size: 30px;
+    height:175px;
+    width: 100%;
+    background-color: white;
+}
+
+.imgheader{
+    width: 175px;
+    height: 175px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.menu{
+    text-decoration: none;
+    padding: 10px;
+    margin-top:-250px;
+    font-size: 25px;
+    color: black;
+}
+
+.scroll{
+    text-decoration: none;
+    padding: 10px;
+    margin-top:-250px;
+    font-size: 25px;
+    color: black;
+}
+
+footer{
+      height: 170px;
+      width: 100%;
+      background-color: #D1A8DF;
+}
+
+h2{
+    color:white;
+    font-family: Marvel;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.teachers{
+    color:white;
+    font-family: Marvel;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.photo{
+    color:white;
+    font-family: Marvel;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+color:white;
+Font-family: Marvel;
+Font-style: Regular;
+Font-size: 36px;
+text-align:center;
+width:675px;
+height:267px;
+margin-top: -25px;
+margin-left: 15px;
+}
+
+strong{
+    color:#4B00AB;
+}
+
+ul{
+ width: 100%;
+ display: flex;
+ justify-content: right;
+ list-style: none;
+ padding-left: 0;
+}
+
+br{
+    font-size:5px;
+    margin-top:15px;
+}
+
+.adress{
+    font-size:24px;
+    font-family:Lato;
+    width:125px;
+    height:5px;
+}
+
+.adress1{
+    font-size:24px;
+    font-family:Lato;
+    width:425px;
+    height:8px;
+}
+
+.time1{
+    font-size:24px;
+    font-family:Lato;
+    width:200px;
+    height:30px;
+    margin-top:45px;
+    margin-left:167px;
+}
+
+.tel{
+    font-size:24px;
+    font-family:Lato;
+    width:324px;
+    height:75px;
+    margin-left:650px;
+    margin-top:-105px;
+}
+
+.ul2{
+    font-size: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    padding-left: 0;
+}
+
+.menu1{
+    text-decoration: none;
+    font-size: 24px;
+    color: black;
+}
+
+.iconf{
+    margin-top:-100px;
+    margin-left: 100%;
+}
+
+.inst{
+    width:30px;
+    height:30px;
+}
+
+.vk{
+    width:30px;
+    height:30px;
+}
+
+.tg{
+    width:30px;
+    height:30px;
+}
+
+.youtube{
+    width:30px;
+    height:30px;
+}
+
+.card{
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.card1{
+    width: 50%;
+    padding: 15px;
+}
+
+.school1{
+    width: 650px;
+    height: 400px;
+    padding: 5px;
+}
+
+.camp1{
+    width: 150px;
+    height: 150px;
+    margin-left: 565px;
+}
+
+.teach{
+    background-image: none;
+    background-color: #9274B9;
+    color: white;
+}
+
+.teac1-1{
+    width:320px;
+    height:320px;
+}
+
+.teac{
+    display: flex;
+    justify-content: space-around;
+}
+
+.teac2-1{
+    width:315px;
+    Font-family: Marvel;
+    Font-style: Regular;
+    Font-size: 36px;
+    text-align: center;
+    margin-top: -5px;
+}
+
+.foot1{
+    background-color: white;
+    height: 160px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.foot2{
+    background-color: #D1A8DF;
+    margin-top: -30px;
+}
+
+.ul3{
+    font-size: 30px;
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+}
+
+.mn{
+    margin-left: 225px;
+}
+
+.data{
+    margin-left: 150px;
+}
+
+.sn{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.prot{
+    margin-top: -50px;
+    margin-left: 5px;
+}
+
+li:hover{
+    color: #7625df;
+}
+
+.bx-wrapper{
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ph{
+    width: 738px;
+    height: 500px;
+}
+
+.map{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
